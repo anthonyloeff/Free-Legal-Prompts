@@ -34,8 +34,7 @@ Incorporate relevant legal terminology or concepts.
 Experiment with different phrasings or structures to optimize the output.
 Consider chaining multiple prompts for more complex tasks.
 
-##Contributing
-
+## Contributing
 We encourage users to share their customized prompts back with the community to help improve the repository.
 
 We welcome contributions to improve existing prompts or add new ones! You can contribute through standard GitHub features:
@@ -47,8 +46,7 @@ Submit a pull request with your improvements
 For major changes or ideas, please open an issue first to discuss what you would like to change.
 You can also contact the repository owner directly through GitHub for any questions or suggestions.
 
-**Disclaimer**
-
+## Disclaimer
 The prompts provided in this repository are for informational purposes only and do not constitute legal advice. While we strive to keep the information accurate and up-to-date, we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability or availability with respect to the prompts or the information generated using these prompts.
 
 Any reliance you place on such information is strictly at your own risk. The repository owner and contributors are not liable for any losses or damages in connection with the use of these prompts.
@@ -59,15 +57,12 @@ The use of these prompts does not create an attorney-client relationship between
 
 This disclaimer is governed by and construed in accordance with international law, Dutch law, and Belgian law. Any disputes relating to this disclaimer shall be subject to the exclusive jurisdiction of the courts in the Netherlands.
 
-**License**
-
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 The MIT License is a permissive license that is short and to the point. It lets people do anything they want with your code as long as they provide attribution back to you and don't hold you liable.
 
-**MIT License**
-
-**Copyright (c) 2024 Anthony Loeff**
-
+## MIT License
+### Copyright (c) 2024 Anthony Loeff
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
@@ -84,8 +79,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-**Contact**
-
+## Contact
 For questions, suggestions, or support, please contact the repository owner through GitHub. You can do this by:
 - Opening an issue in this repository
 - Commenting on relevant pull requests or issues
