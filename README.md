@@ -16,7 +16,7 @@ Client communication for lawyers
 
 Prompts available in both English and Dutch
 
-## How to Use:
+## How to Use
 Browse the repository to find a prompt that suits your needs.
 Copy the prompt and paste it into your preferred LLM interface (ChatGPT or Claude AI).
 Modify the prompt as necessary to fit your specific use case.
