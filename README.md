@@ -62,7 +62,7 @@ The MIT License is a permissive license that is short and to the point. It lets 
 
 # MIT License
 
-## Copyright (c) 2024 Anthony Loeff
+## Copyright (c) 2024 ∞ Anthony Loeff
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of these Prompts and associated Software and documentation files (the "Prompts and Software"), to deal in the Prompts and Software without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Prompts and Software, and to permit persons to whom the Prompts and Software are furnished to do so, subject to the following conditions:
