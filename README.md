@@ -2,7 +2,6 @@
 Welcome to the Free-Prompts repository! This project offers a collection of prompts designed to serve as a strong foundation for complex tasks in various Large Language Models (LLMs), with a specific focus on the legal domain.
 
 ## About This Project
-
 Free-Legal-Prompts provides a set of carefully crafted prompts that users can freely utilize and build upon for various legal applications. Our goal is to offer a robust starting point for legal professionals, researchers, and enthusiasts working with LLMs in legal contexts. We encourage users to contribute to the further refinement and development of these prompts.
 Features
 
@@ -18,8 +17,7 @@ Client communication for lawyers
 
 Prompts available in both English and Dutch
 
-**How to Use:**
-
+## How to Use:
 Browse the repository to find a prompt that suits your needs.
 Copy the prompt and paste it into your preferred LLM interface (ChatGPT or Claude AI).
 Modify the prompt as necessary to fit your specific use case.
@@ -36,7 +34,7 @@ Incorporate relevant legal terminology or concepts.
 Experiment with different phrasings or structures to optimize the output.
 Consider chaining multiple prompts for more complex tasks.
 
-**Contributing**
+##Contributing
 
 We encourage users to share their customized prompts back with the community to help improve the repository.
 
