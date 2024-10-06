@@ -62,6 +62,7 @@ The use of these prompts does not create an attorney-client relationship between
 This disclaimer is governed by and construed in accordance with international law, Dutch law, and Belgian law. Any disputes relating to this disclaimer shall be subject to the exclusive jurisdiction of the courts in the Netherlands.
 
 **License**
+
 This project is licensed under the MIT License - see the LICENSE file for details.
 The MIT License is a permissive license that is short and to the point. It lets people do anything they want with your code as long as they provide attribution back to you and don't hold you liable.
 
