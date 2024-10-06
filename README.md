@@ -2,6 +2,7 @@
 Welcome to the Free-Prompts repository! This project offers a collection of prompts designed to serve as a strong foundation for complex tasks in various Large Language Models (LLMs), with a specific focus on the legal domain.
 
 **About This Project**
+
 Free-Legal-Prompts provides a set of carefully crafted prompts that users can freely utilize and build upon for various legal applications. Our goal is to offer a robust starting point for legal professionals, researchers, and enthusiasts working with LLMs in legal contexts. We encourage users to contribute to the further refinement and development of these prompts.
 Features
 
@@ -36,6 +37,7 @@ Experiment with different phrasings or structures to optimize the output.
 Consider chaining multiple prompts for more complex tasks.
 
 **Contributing**
+
 We encourage users to share their customized prompts back with the community to help improve the repository.
 
 We welcome contributions to improve existing prompts or add new ones! You can contribute through standard GitHub features:
@@ -48,6 +50,7 @@ For major changes or ideas, please open an issue first to discuss what you would
 You can also contact the repository owner directly through GitHub for any questions or suggestions.
 
 **Disclaimer**
+
 The prompts provided in this repository are for informational purposes only and do not constitute legal advice. While we strive to keep the information accurate and up-to-date, we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability or availability with respect to the prompts or the information generated using these prompts.
 
 Any reliance you place on such information is strictly at your own risk. The repository owner and contributors are not liable for any losses or damages in connection with the use of these prompts.
@@ -63,7 +66,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 The MIT License is a permissive license that is short and to the point. It lets people do anything they want with your code as long as they provide attribution back to you and don't hold you liable.
 
 **MIT License**
-**Copyright (c) [2024] [Anthony Loeff]**
+
+**Copyright (c) 2024 Anthony Loeff**
+
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
@@ -81,6 +86,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 **Contact**
+
 For questions, suggestions, or support, please contact the repository owner through GitHub. You can do this by:
 - Opening an issue in this repository
 - Commenting on relevant pull requests or issues
