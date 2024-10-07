@@ -8,14 +8,55 @@ The 'forLawyers' subdirectory offers carefully curated prompts that lawyers can 
 - Prompts optimized for the latest versions of ChatGPT and Claude AI
 - Focus on legal applications for lawyers, including:
   - Contract analysis and drafting
+    - Identifying potential loopholes or ambiguities
+    - Suggesting clauses for specific scenarios
   - Legal research and case law analysis
+    - Finding relevant precedents across multiple jurisdictions
+    - Summarizing key points of lengthy judgments
   - Drafting legal documents and opinions
+    - Generating first drafts of legal memos, briefs, and pleadings
+    - Proofreading and suggesting improvements for clarity and persuasiveness
   - Preparation of pleadings
+    - Structuring arguments in a logical and compelling manner
+    - Anticipating and addressing potential counterarguments
   - Client communication and management
+    - Drafting client-friendly explanations of complex legal concepts
+    - Generating templates for routine client communications
   - Time tracking and billing
+    - Suggesting appropriate time entries based on task descriptions
+    - Analyzing billing patterns for efficiency improvements
   - Ethical considerations and professional rules
+    - Checking for potential conflicts of interest
+    - Ensuring compliance with local bar association rules
+  - Case strategy and analysis
+    - Creating SWOT analyses for cases
+    - Developing decision trees for different legal strategies
+  - Evidence review and management
+    - Summarizing key points from large volumes of documents
+    - Identifying potential inconsistencies or gaps in evidence
+  - Opposing counsel analysis
+    - Identifying inconsistencies in opposing counsel's submissions
+    - Detecting logical fallacies or argumentative errors in opposing arguments
+  - Trial preparation
+    - Generating potential questions for witness examinations
+    - Creating timelines to verify and present the sequence of events
+  - Settlement negotiations
+    - Analyzing past settlement data for similar cases
+    - Generating negotiation scripts and fallback positions
+  - Appeals
+    - Identifying potential grounds for appeal
+    - Analyzing the strength of appellate arguments
+  - Legal writing enhancement
+    - Improving clarity and conciseness of legal documents
+    - Ensuring consistent terminology and citation styles
+  - Mock trial simulations
+    - Generating hypothetical judicial responses to arguments
+    - Creating practice questions for oral arguments
+  - Regulatory compliance
+    - Summarizing changes in relevant laws and regulations
+    - Creating checklists for compliance in specific industries
 - Prompts available in both English and Dutch
-- Adaptable to different areas of law and jurisdictions
+- Adaptable to different areas of law, jurisdictions, and types of legal practice
 
 ## How to Use
 1. Browse through the available prompts in this subdirectory.
