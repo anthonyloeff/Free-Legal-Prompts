@@ -75,6 +75,6 @@ to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies
 For questions, suggestions, or support, please contact the repository owner through GitHub. You can do this by:
 - Opening an issue in this repository
 - Commenting on relevant pull requests or issues
-- Using GitHub's direct messaging feature to contact the repository owner: https://github.com/anthonyloeff
+- Using the direct messaging feature on LinkedIn to contact the repository owner: https://www.linkedin.com/in/anthonyloeff/
 
 We value your feedback and contributions to make this project better for everyone in the legal community working with LLMs.
