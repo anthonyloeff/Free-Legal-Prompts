@@ -1,5 +1,5 @@
 # Free-Legal-Prompts
-Welcome to the Free-Prompts repository! This project offers a collection of prompts designed to serve as a strong foundation for complex tasks in various Large Language Models (LLMs), with a specific focus on the legal domain.
+Welcome to the Free-Legal-Prompts repository! This project offers a collection of prompts designed to serve as a strong foundation for complex tasks in various Large Language Models (LLMs), with a specific focus on the legal domain.
 
 ## About This Project
 Free-Legal-Prompts provides a set of carefully crafted prompts that users can freely utilize and build upon for various legal applications. Our goal is to offer a robust starting point for legal professionals, researchers, and enthusiasts working with LLMs in legal contexts. We encourage users to contribute to the further refinement and development of these prompts.
