@@ -6,13 +6,56 @@ Free-Legal-Prompts provides a set of carefully crafted prompts that users can fr
 
 ## Features
 Prompts optimized for the latest versions of ChatGPT and Claude AI
+
 ### Focus on legal applications including:
-Contract analysis
-Legal research
-Drafting legal documents
-Providing feedback on self-created legal documents
-Employing various legal personas for work evaluation
-Client communication for lawyers
+
+#### For Lawyers:
+- Contract analysis and drafting
+  - Identifying potential loopholes or ambiguities
+  - Suggesting clauses for specific scenarios
+- Legal research and case law analysis
+  - Finding relevant precedents across multiple jurisdictions
+  - Summarizing key points of lengthy judgments
+- Drafting legal documents and opinions
+- Preparation of pleadings
+  - Structuring arguments logically and compellingly
+  - Anticipating and addressing potential counterarguments
+- Client communication and management
+- Time tracking and billing
+- Ethical considerations and professional rules
+- Case strategy and analysis
+  - Creating SWOT analyses for cases
+  - Developing decision trees for different legal strategies
+- Evidence review and management
+- Opposing counsel analysis
+  - Identifying inconsistencies in opposing counsel's submissions
+  - Detecting logical fallacies or argumentative errors in opposing arguments
+- Trial preparation
+  - Generating potential questions for witness examinations
+  - Creating timelines to verify and present the sequence of events
+- Settlement negotiations
+- Appeals preparation
+- Legal writing enhancement
+- Mock trial simulations
+  - Generating hypothetical judicial responses to arguments
+- Regulatory compliance assistance
+
+#### For Judges:
+- Identifying inconsistencies in lawyers' submissions
+- Detecting logical fallacies and argumentative errors in legal arguments
+- Creating timelines to verify the sequence of events
+- Summarizing complex legal documents and case files
+- Conducting comprehensive legal research across multiple jurisdictions
+- Analyzing precedents and their applicability to current cases
+- Drafting clear and concise judgments
+- Ensuring consistency in decision-making across similar cases
+- Identifying potential conflicts of interest
+- Analyzing statistical data in complex cases (e.g., class actions)
+- Generating questions for clarification during hearings
+- Assessing the credibility of expert testimonies
+- Evaluating the strength of evidence presented
+- Conducting sentiment analysis on witness statements
+- Comparing and contrasting different interpretations of laws and statutes
 
 Prompts available in both English and Dutch
 
