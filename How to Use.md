@@ -1,1 +1,5 @@
-How to Use
+Browse the repository to find a prompt that suits your needs. Copy the prompt and paste it into your preferred LLM interface (ChatGPT or Claude AI). Modify the prompt as necessary to fit your specific use case. Run the prompt and analyze the output. Iterate and refine as needed.
+
+Remember that these prompts are starting points. The effectiveness may vary depending on the specific version of the LLM you're using and the complexity of your task. Customization and Extension To adapt these prompts for your specific needs:
+
+Identify the core elements of the prompt that align with your task. Add context specific to your legal jurisdiction or area of practice. Incorporate relevant legal terminology or concepts. Experiment with different phrasings or structures to optimize the output. Consider chaining multiple prompts for more complex tasks.
