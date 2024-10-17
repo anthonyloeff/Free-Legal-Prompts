@@ -121,3 +121,5 @@ For questions, suggestions, or support, please contact the repository owner thro
 - Using the [direct messaging feature on LinkedIn](https://www.linkedin.com/in/anthonyloeff/) to contact the repository owner.
 
 We value your feedback and contributions to make this project better for everyone in the legal community working with LLMs.
+
+<meta name="google-site-verification" content="sfxucWuO3FVPXctBjzbVqPAUkKUgQ9AJJBIGKM9dc9Q" />
