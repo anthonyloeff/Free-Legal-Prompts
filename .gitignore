@@ -1,0 +1,29 @@
+# macOS systeembestanden
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnail cache bestanden
+._*
+
+# Bestanden die mogelijk verschijnen in de root van een volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Mappen gemaakt door Visual Studio Code
+.vscode/
+
+# Node modules map (voor Node.js projecten)
+node_modules/
+
+# Python bytecode cache
+__pycache__/
+*.py[cod]
+
+# Logbestanden
+*.log
