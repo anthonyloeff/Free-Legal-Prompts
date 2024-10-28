@@ -1,6 +1,6 @@
 # MIT License
 
-## Copyright (c) Anthony Loeff → 2024 ∞
+## Copyright (c) Anthony Loeff → 2024 → ∞
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of these Prompts and associated Software and documentation files (the "Prompts and Software"), to deal in the Prompts and Software without restriction, including without limitation the rights
