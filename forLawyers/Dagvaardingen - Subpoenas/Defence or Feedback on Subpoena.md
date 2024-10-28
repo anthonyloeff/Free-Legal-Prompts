@@ -1,11 +1,11 @@
 ## License
 
 - Title: Defence or Feedback on Subpoena
-- Part of: free-legal-prompts → [https://github.com/anthonyloeff/free-legal-prompts](https://github.com/anthonyloeff/free-legal-prompts)
-- Readme: [https://github.com/anthonyloeff/Free-Legal-Prompts/blob/main/README.md](https://github.com/anthonyloeff/Free-Legal-Prompts/blob/main/README.md)
-- Author: Anthony Loeff - [https://github.com/anthonyloeff](https://github.com/anthonyloeff) → [litic.ai](https://litic.ai)
+- Part of: free-legal-prompts → [github.com/anthonyloeff/free-legal-prompts](https://github.com/anthonyloeff/free-legal-prompts)
+- Readme: [github.com/anthonyloeff/Free-Legal-Prompts/blob/main/README.md](https://github.com/anthonyloeff/Free-Legal-Prompts/blob/main/README.md)
+- Author: Anthony Loeff - [github.com/anthonyloeff](https://github.com/anthonyloeff) → [litic.ai](https://litic.ai)
 - Copyright: (c) Anthony Loeff - 2024 → ∞
-- License: MIT license → [https://github.com/anthonyloeff/Free-Legal-Prompts/blob/main/LICENSE.md](https://github.com/anthonyloeff/Free-Legal-Prompts/blob/main/LICENSE.md)
+- License: MIT license → [github.com/anthonyloeff/Free-Legal-Prompts/blob/main/LICENSE.md](https://github.com/anthonyloeff/Free-Legal-Prompts/blob/main/LICENSE.md)
 
 **Copy everything below the line from ‘Start’ to ‘End’**
 ------------
