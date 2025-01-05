@@ -5,7 +5,7 @@ Welcome to the 'forLawyers' subdirectory of the Free-Legal-Prompts project! This
 The 'forLawyers' subdirectory offers carefully curated prompts that lawyers can use as a starting point for various legal tasks and activities. Our goal is to provide a robust foundation for lawyers who want to leverage LLMs in their daily practice, whether it's analyzing contracts, conducting legal research, or improving their client communication.
 
 ## Features
-- Prompts optimized for the latest versions of ChatGPT and Claude AI
+- Prompts optimized for the latest versions of ChatGPT, Claude and Mistral
 - Focus on legal applications for lawyers, including:
   - Contract analysis and drafting
     - Identifying potential loopholes or ambiguities
