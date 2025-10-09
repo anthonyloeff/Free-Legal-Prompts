@@ -1,0 +1,73 @@
+/**
+ * ChatKit Custom Styling
+ */
+
+/* Loading state */
+.chatkit-loading {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    background: #f8f9fa;
+    font-size: 14px;
+    color: #666;
+}
+
+/* Error state */
+.chatkit-error {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    background: #fff5f5;
+    color: #e53e3e;
+    text-align: center;
+    padding: 20px;
+}
+
+.chatkit-error h4 {
+    margin: 0 0 10px 0;
+    font-size: 16px;
+}
+
+.chatkit-error p {
+    margin: 0;
+    font-size: 14px;
+}
+
+/* Mobile responsiveness */
+@media (max-width: 768px) {
+    #openai-chatkit-widget {
+        width: calc(100vw - 40px) !important;
+        height: calc(100vh - 100px) !important;
+        bottom: 20px !important;
+        right: 20px !important;
+        left: 20px !important;
+    }
+}
+
+/* ChatKit theming */
+.openai-chatkit {
+    --chatkit-primary-color: #0066cc;
+    --chatkit-secondary-color: #f8f9fa;
+    --chatkit-text-color: #333;
+    --chatkit-border-radius: 8px;
+    --chatkit-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Dark theme overrides */
+.openai-chatkit[data-theme="dark"] {
+    --chatkit-primary-color: #4dabf7;
+    --chatkit-secondary-color: #2d3748;
+    --chatkit-text-color: #fff;
+    --chatkit-bg-color: #1a202c;
+}
+
+/* Shortcode container styling */
+#chatkit-container-shortcode {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    overflow: hidden;
+    background: white;
+}
